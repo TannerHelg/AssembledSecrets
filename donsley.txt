@@ -1,0 +1,95 @@
+A cold wind pushes through the room, as the door swings open.
+Tattered leather shoes carry a young man, soot and coal stains covering his thin body.
+
+"heya, m'name is Donsley..."
+
+
+(1)What do you know about the murder?
+
+(2)Where were you on the night of the murder?
+
+(3)Did you know the victim?
+
+(4)Where do you work?
+
+(5)Is 'Donsley' a nickname?
+
+(6)Dismiss Donsley
+*
+
+!
+"I'm real sorry to hear what happened sir, but I don't know nothin' 'bout this murder"
+He shifts his feet awkwardly in his chair, dropping eye contact as he answers the question
+
+        ^
+        He is not a good liar, but the man in front of you is too much of a coward to mislead about murder.
+        Maybe he is covering for some other crime.
+        ^
+
+        |
+        While there might be more than meets the eye, you have a hard time thinking that a man of his build could take out the victim.
+        Either Donsley is innocent, or he had some ulterior plans
+        |
+
+"I wish I could help more I do..."
+
+!
+
+@
+"T-that was last night, right?"
+His hands cross, as he begins to nervously fidget in his chair
+"Well.. I was at me home, all the way over on 8th and Main sir"
+
+        <
+        8th and Main would be a 20 minute drive, or two hour walk, not impossible, but definitely not nearby.
+        <
+
+        |
+        Not the wealthiest neighborhood, full of smaller low-income houses. He'd fit in perfectly if he's telling the truth
+        |
+
+
+@
+
+#
+"Well...um..." He shifts uncomfortably in his seat, trying to move away from the question.
+His eyes try to find an answer somewhere in the ceiling tiles.
+"We did business... and um..." he stammers on.
+
+        >
+        As he trails over his memories, he scratches against his shirt collar.
+        These memories seem to have reminded him of how uncomfortable he is.
+        >
+		|
+        It's rather obvious what he means by this, the victim used to deal drugs either to or from him.
+        |
+He looks back at you, waiting for you to move on.
+#
+
+$
+"Oh work! I work in the coal mines here on the edge o' town", he pats a smoke of soot from his clothes out into the room.
+
+        <
+        The coal processing plant is only a few blocks away from where the victim was found, Donsley here would've been close at least during his shift.
+        <
+"It is good word, hard work, but good work."
+        ^
+        The work is not enjoyable, nor does it pay well, yet he shows some genuine pride in being an employee nonetheless.
+        ^
+$
+
+%
+"Oh no sir, my real name be Donald, but erry'body always has called me this, ever since I was little."
+        |
+        It isn't the kind of nickname one gives themself, it is a nickname he is stuck with, not necessarily one he wants
+        |
+
+        &
+        He has no muscle mass, and when he was younger he also didn't. There would be few people he could 'convince' to stop calling him it.
+        &
+
+%
+
+\
+ok bye
+\
